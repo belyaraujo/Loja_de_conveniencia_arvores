@@ -1,4 +1,4 @@
-# Projeto_EDA_Árvores
+# Projeto Loja de Conveniência usando Árvores binárias
 
 ## 🤝 Integrante do Projeto
   <table>
