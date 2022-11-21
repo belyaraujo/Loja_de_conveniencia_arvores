@@ -18,7 +18,8 @@
 ## ✍ Definições do projeto
 Utilizando os conceitos de TAD crie uma estrutura do tipo Árvore Binária de Busca para armazenar produtos de uma loja de conveniência. A ordenação da árvore será pelo número de matrícula dos produtos, que serão guardados na seguinte estrutura:
 
-struct Produto{
+struct/n
+Produto{
     int matricula;
     int tipo; 
     float preco;
